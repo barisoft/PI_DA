@@ -174,3 +174,6 @@ Usando esta plataforma de Microsoft en su versión gratuita pudimos terminar de 
 8- Cooperación entre diferentes actores:
   - Fomentar la cooperación entre el gobierno, las organizaciones no gubernamentales, las empresas y la sociedad civil para la prevención de accidentes de tránsito.
   - Implementar programas de participación ciudadana en la planificación y evaluación de las políticas de seguridad vial.
+
+## Autor: Rafael Balestrini
+Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por linkedin.com/in/rafael-balestrini-626374284
