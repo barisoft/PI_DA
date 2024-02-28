@@ -3,7 +3,7 @@ HENRY - PROYECTO INDIVIDUAL Nº2 - Data Analyst - Siniestros viales en CABA
 
 <a href="https://www.python.org/">![Python](https://img.shields.io/badge/Python-3.10.12-3776AB?style=for-the-bage&logo=Python)</a> <a href="https://numpy.org/">![NumPy](https://img.shields.io/badge/NumPy-1.25.2-013243?style=for-the-bage&logo=numpy)</a> <a href="https://jupyter.org/">![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-1.0.0-F37626?style=for-the-bage&logo=jupyter)</a> <a href="https://pandas.pydata.org/">![Pandas](https://img.shields.io/badge/Pandas-2.1.0-150458?style=for-the-bage&logo=pandas)</a> <a href="https://matplotlib.org">![matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-4285F4?style=for-the-bage&logo=exordo)</a> <a href="https://seaborn.pydata.org/">![seaborn](https://img.shields.io/badge/seaborn-0.13.0-4285F4?style=for-the-bage&logo=flood)</a> <a href="https://code.visualstudio.com/">![VSC](https://img.shields.io/badge/Visual_Studio_Code-1.85-007ACC?style=for-the-bage&logo=visualstudiocode)</a>
 
-![Texto alternativo](https://www.protocol.com/media-library/portada.png?id=27084445&width=1245&height=700&quality=85&coordinates=0%2C0%2C0%2C0)
+![Texto alternativo](src/portada.png?id=27084445&width=1245&height=700&quality=85&coordinates=0%2C0%2C0%2C0)
 
 ### Descripción del Problema
 Los siniestros viales, eventos que involucran vehículos en las vías públicas, son una preocupación importante en ciudades como Buenos Aires debido al alto volumen de tráfico y la densidad poblacional. Estos incidentes pueden tener consecuencias graves, incluyendo daños materiales, lesiones y muertes.
@@ -50,7 +50,7 @@ A continuación, se presenta la estructura de directorios del proyecto:
 │&emsp; │&emsp; ├── <span style="color:#f6a700;">__dfHechosVictimas.csv__</span> <br>
 │&emsp; │&emsp; └── <span style="color:#f6a700;">__homicidios.xlsx__</span> <br>
 │&emsp; │<br>
-│&emsp; └── <span style="color:#f6a700;">__notebooks__</span>: Contiene los Jupyter Notebooks (.ipynb) con el código completo y bien comentado tanto del ETL como del EDA.<br>
+│&emsp; └── <span style="color:#f6a700;">__notebooks__</span>: Contiene los notebooks (.ipynb) con el código completo y bien comentado tanto del ETL como del EDA.<br>
 │<br>
 └──  <span style="color:#f6a700;">__README.md__</span>: Este es el archivo de descripción del proyecto.<br>
 
